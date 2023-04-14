@@ -1,0 +1,547 @@
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.Properties.Resources.resources
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.GenerateResource.cache
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CoreCompileInputs.cache
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.pdb
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.MainWindow.resources
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe.manifest
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.application
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.config
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.manifest
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Vision Core.application
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Vision Core.pdb
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CopyComplete
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.Fonts.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.config
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.manifest
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Vision Core.application
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Vision Core.pdb
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.Fonts.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csprojAssemblyReference.cache
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.MainWindow.resources
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.Properties.Resources.resources
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.GenerateResource.cache
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CoreCompileInputs.cache
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe.manifest
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.application
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CopyComplete
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.pdb
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.config
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.manifest
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Vision Core.application
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Vision Core.pdb
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.dll
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.Fonts.dll
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.dll
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.xml
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csprojAssemblyReference.cache
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.MainWindow.resources
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.Properties.Resources.resources
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.GenerateResource.cache
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CoreCompileInputs.cache
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe.manifest
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.application
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CopyComplete
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.pdb
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\BouncyCastle.Crypto.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.xml
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\BouncyCastle.Crypto.dll
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.dll
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.dll
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.dll
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.xml
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.xml
+X:\Work\IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x86.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x64.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.so
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.so
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.dylib
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.dylib
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.PlatformServices.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.PlatformServices.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.pdb
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.pdb
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.pdb
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.pdb
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.pdb
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.pdb
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.pdb
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.pdb
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.pdb
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.pdb
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\Iso.Validators.dll
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\bin\MediaToolkit.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x86.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x64.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.so
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.so
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.dylib
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.dylib
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\BouncyCastle.Crypto.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.PlatformServices.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.PlatformServices.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Iso.Validators.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\MediaToolkit.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.dll
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.pdb
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.pdb
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.pdb
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.pdb
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.pdb
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.pdb
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.pdb
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.pdb
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.pdb
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.pdb
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.xml
+Z:\IDS\System Build\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.xml
+D:\Ed-IDS\Loggy\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csprojAssemblyReference.cache
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x86.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x64.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.so
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.so
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.dylib
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.dylib
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.config
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.manifest
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Vision Core.application
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Vision Core.pdb
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\BouncyCastle.Crypto.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.PlatformServices.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.PlatformServices.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Iso.Validators.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\MediaToolkit.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.Fonts.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.dll
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.pdb
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.pdb
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.pdb
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.pdb
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.pdb
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.pdb
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.pdb
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.pdb
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.pdb
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.pdb
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.xml
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.MainWindow.resources
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.Properties.Resources.resources
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.GenerateResource.cache
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CoreCompileInputs.cache
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe.manifest
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.application
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CopyComplete
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.pdb
+X:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csprojAssemblyReference.cache
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x86.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x64.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.so
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.so
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.dylib
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.dylib
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.config
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.manifest
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Vision Core.application
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Vision Core.pdb
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\BouncyCastle.Crypto.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.PlatformServices.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.PlatformServices.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Iso.Validators.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\MediaToolkit.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.Fonts.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.pdb
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.pdb
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.pdb
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.pdb
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.pdb
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.pdb
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.pdb
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.pdb
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.pdb
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.pdb
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.xml
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csprojAssemblyReference.cache
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.MainWindow.resources
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.Properties.Resources.resources
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.GenerateResource.cache
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CoreCompileInputs.cache
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe.manifest
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.application
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CopyComplete
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.pdb
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x86.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x64.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.so
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.so
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.dylib
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.dylib
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.config
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.manifest
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Vision Core.application
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Vision Core.pdb
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\BouncyCastle.Crypto.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.PlatformServices.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.PlatformServices.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Iso.Validators.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\MediaToolkit.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.Fonts.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.dll
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.pdb
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.pdb
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.pdb
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.pdb
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.pdb
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.pdb
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.pdb
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.pdb
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.pdb
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.pdb
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.xml
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csprojAssemblyReference.cache
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.MainWindow.resources
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.Properties.Resources.resources
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.GenerateResource.cache
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CoreCompileInputs.cache
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe.manifest
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.application
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CopyComplete
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe
+D:\Loggy\Vision Core\Builder\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.pdb
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x86.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x64.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.so
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.so
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.dylib
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.dylib
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.config
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.manifest
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Vision Core.application
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Vision Core.pdb
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\BouncyCastle.Crypto.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.PlatformServices.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.PlatformServices.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Iso.Validators.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\MediaToolkit.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.Fonts.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.pdb
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.pdb
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.pdb
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.pdb
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.pdb
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.pdb
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.pdb
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.pdb
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.pdb
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.pdb
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.xml
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csprojAssemblyReference.cache
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.MainWindow.resources
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.Properties.Resources.resources
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.GenerateResource.cache
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CoreCompileInputs.cache
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe.manifest
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.application
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CopyComplete
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.pdb
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x86.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\grpc_csharp_ext.x64.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.so
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.so
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x86.dylib
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\libgrpc_csharp_ext.x64.dylib
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.config
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe.manifest
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Vision Core.application
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Vision Core.exe
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Vision Core.pdb
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\BouncyCastle.Crypto.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.PlatformServices.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.PlatformServices.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Iso.Validators.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\MediaToolkit.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\MetroFramework.Fonts.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.dll
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.pdb
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Api.CommonProtos.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.pdb
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.pdb
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Api.Gax.Grpc.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.pdb
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.pdb
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Auth.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.pdb
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Apis.Core.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.pdb
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Cloud.Vision.V1.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.pdb
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.LongRunning.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Google.Protobuf.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.pdb
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Grpc.Auth.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.pdb
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Grpc.Core.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\MySql.Data.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\Newtonsoft.Json.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\NReco.VideoConverter.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\System.Interactive.Async.xml
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csprojAssemblyReference.cache
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.MainWindow.resources
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision_Core.Properties.Resources.resources
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.GenerateResource.cache
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CoreCompileInputs.cache
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe.manifest
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.application
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.csproj.CopyComplete
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.exe
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\obj\Debug\Vision Core.pdb
+D:\Ed-IDS\Vision Core\loggy-vision\Vision Core\Vision Core\bin\MySqlBackup.dll
+D:\Work\IDS\loggy-vision\Vision Core\Vision Core\bin\MySqlBackup.dll
+D:\vision_core\dev\loggy-vision\Vision Core\Vision Core\bin\MySqlBackup.dll

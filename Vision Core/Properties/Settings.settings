@@ -1,0 +1,135 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Vision_Core.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="server_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.0.0.152</Value>
+    </Setting>
+    <Setting Name="server_port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8000</Value>
+    </Setting>
+    <Setting Name="login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin123</Value>
+    </Setting>
+    <Setting Name="save_folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">d:/vision_core/archive/</Value>
+    </Setting>
+    <Setting Name="line_cross_pre_roll" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="line_cross_alarm_record_time" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="line_cross_alarm_channel" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="conversion_quality" Type="System.String" Scope="User">
+      <Value Profile="(Default)">320x200</Value>
+    </Setting>
+    <Setting Name="ftp_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp://edspurrier.com</Value>
+    </Setting>
+    <Setting Name="ftp_login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vision_core_safe@lumigear.net</Value>
+    </Setting>
+    <Setting Name="ftp_password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">idsidsidsids</Value>
+    </Setting>
+    <Setting Name="core_sql_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">edspurrier.com</Value>
+    </Setting>
+    <Setting Name="core_sql_login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">edspurri_vision</Value>
+    </Setting>
+    <Setting Name="core_sql_password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">idsidsidsids</Value>
+    </Setting>
+    <Setting Name="vision_sql_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="vision_sql_login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="vision_sql_password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="core_sql_database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">edspurri_vision_gui</Value>
+    </Setting>
+    <Setting Name="vision_sql_database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vision_core</Value>
+    </Setting>
+    <Setting Name="system_internal_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vision Core Test</Value>
+    </Setting>
+    <Setting Name="cc_record_channel_1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="cc_record_channel_2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="cc_record_channel_3" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="cc_record_channel_4" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="cc_preroll" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="cc_min_length" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="cc_ftp_sub_dir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">container_chain</Value>
+    </Setting>
+    <Setting Name="cc_clean_up" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="cpa_reprocess" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="va_min_confidence" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ie_crop_x" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">600</Value>
+    </Setting>
+    <Setting Name="ie_crop_y" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+    <Setting Name="ie_crop_width" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1300</Value>
+    </Setting>
+    <Setting Name="ie_crop_height" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">750</Value>
+    </Setting>
+    <Setting Name="cd_process_date" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="cd_process_datetime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">06/19/2019 10:25:00</Value>
+    </Setting>
+    <Setting Name="cd_recording_channel" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="cd_clean_up" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="cpa_process_datetime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">06/20/2019 00:01:00</Value>
+    </Setting>
+    <Setting Name="cpa_process_date" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="cpa_owner" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="visioncore_gui_sql_database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">edspurri_vision_core</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
